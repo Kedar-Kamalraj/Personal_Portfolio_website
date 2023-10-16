@@ -95,4 +95,5 @@ With the use of li,span and br tags the contents of the tab are created
 Another tag with similar settings and attribute are created for experience and education with id='experience' and id='education' respectively
 These id's are passed as parameter to the opentab function
 
-Another div tag with id as 
+Another div tag with id as services for the services section
+Inside that a class named "container" is created so as to access the css
